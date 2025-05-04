@@ -3,7 +3,7 @@ The AtliQ Hotels' data was analyzed using Pandas in Jupyter Notebook, calculatin
 
 ***AtliQ Grand Python Project: A Step-by-Step Execution Plan:***
 
-1) Data Exploration
-2) Data Cleaning
-3) Data Transformation
-4) Insight Generation
+- Data Exploration
+- Data Cleaning
+- Data Transformation
+- Insight Generation
